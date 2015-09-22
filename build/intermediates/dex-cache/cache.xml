@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Syrou\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-4303bff2a7eb7f8cd6f66f8036d16edc5f12c23d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\NOBSRecyclerView\nobsrecyclerview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79cc0ccbe7b119a9f73bd8148ceafa6d38617ec9">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-1c26cabe8489eea8cc2d42e95d6fa80764e6ba4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-c31f8ba6bfdcce13f860ecd14e7aa9721967fd67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a3502ee33e5a330a4c3e6f879fe576d751be4e99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-d6d007092a6a7b0daa233f8b3508ac596a435145.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-4373eae09c165928eeaaee45156bf75cd6325260.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-1df2504d006f26db23fccb9168de1c6e3c306a7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-d71255b01c02bf63c597187282f06907e7ed9a85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-0e34a6971cca9785665c4e89e37a3c8bc40d61ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="C:\Users\Syrou\AndroidStudioProjects\NOBSRecyclerView\app\build\intermediates\pre-dexed\debug\classes-139504432062de3e20594fdba701120e4f8a8b5f.jar" />
+    </item>
+
+</items>
