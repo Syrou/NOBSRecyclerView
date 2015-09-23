@@ -1,5 +1,5 @@
 box: 
-    id: beevelop/android
+    id: heikomaass/android-sdk
 # Build definition
 build:
   # The steps that will be executed on build
